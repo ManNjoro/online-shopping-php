@@ -262,7 +262,7 @@ img{
   border-radius: 5px;
   margin-right: 5px;
 }
-.check-btn{
+button[type=submit].check-btn{
   width: 95%;
   background-color: darkorange;
   padding: 9px;
@@ -361,21 +361,6 @@ body{
 }
 .cart-item button{
   float:right;
-}
-
-/* Style for the buy button */
-.buy-btn {
-  background-color: #4CAF50;
-  color: white;
-  border: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-right: 10px;
-}
-
-.buy-btn:hover {
-  background-color: #3e8e41;
 }
 
 /* Style for the remove button */
