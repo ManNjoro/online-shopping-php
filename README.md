@@ -1,0 +1,1 @@
+This is an e-commerce website based on online clothing shop.It allows users to view and add items to cart after which they can checkout if satisfied.It requires a login.The backend is designed with php to connect to the database.The JS part also includes use of localstorage to temporarily store items added to cart.
